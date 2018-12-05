@@ -355,3 +355,7 @@ header.masthead p {
 .navbar-brand{
   font-size: 1.5rem;
 }
+
+.col-lg-6.mx-auto.text-center p {
+  text-align: left;
+}
